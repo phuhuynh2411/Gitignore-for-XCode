@@ -12,13 +12,10 @@
 *.perspectivev3
 *.pbxuser
 
-# Xcode
+# Xcode *** Replace the <<your project>> with your project name
 xcuserdata/
-project.xcworkspace/
+<<your project>>.xcworkspace/
 DerivedData/
-
-# User Interface State file. ** Replace the <<your app>> with your app name
-<<your app>>.xcworkspace/xcuserdata/admin.xcuserdatad/UserInterfaceState.xcuserstate
 
 # build products
 build/
