@@ -37,4 +37,4 @@ Backup[ ]of[ ]*.numbers/
 
 # Cocodapods
 Pods/
-Pock.lock
+Podfile.lock
